@@ -3,6 +3,20 @@
 
 Shows a list of IP addresses viewing the page
 
+## Intalling
+
+clone the repo then run following:
+npm install
+bower install
+
+## Running
+
+grunt serve
+
+## Building
+
+grunt build
+
 ## Requirements
 
 Create a single-page web app that:
